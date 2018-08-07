@@ -1,0 +1,2 @@
+magtap10 filter=lfs diff=lfs merge=lfs -text
+magtap101 filter=lfs diff=lfs merge=lfs -text
